@@ -2,6 +2,7 @@
   <head>
     <title> sushi recipe </title>
   </head>
+  <body style="background-color:#A5FFB4">
 <h1 style="text-align:center;font-size:250%;color:#001482;"> Sushi recipe </h1>
 <h2 style="font-size:200%;"> Ingredients </h2>
 
@@ -53,4 +54,5 @@ side-by-side to slice into individual pieces. This ensures that each piece will 
 <a href="https://www.youtube.com/watch?v=9QUpTeTVPJo" style="text-decoration:none">Watch This video to help you better understand the instructions</a><br>
 <a href="FavoriteFoods.html" style="text-decoration:none">Back to favorite foods page</a><br>
 <a href="index.html" style="text-decoration:none">Back to home page</a><br>
-
+</body>
+</html>

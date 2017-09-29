@@ -2,6 +2,7 @@
   <head>
     <title> Pizza recipe </title>
   </head>
+  <body style="background-color:#A5FFB4">
 <h1 style="text-align:center;font-size:250%;color:#001482;"> Pizza recipe </h1>
 <h2 style="font-size:200%;"> Ingredients </h2>
 
@@ -59,5 +60,7 @@ pieces and serve. </p><br>
 <a href="http://www.thekitchn.com/videos/dS3x31k9" style="text-decoration:none">Watch This video to help you better understand the instructions</a><br>
 <a href="FavoriteFoods.html" style="text-decoration:none">Back to favorite foods page</a><br>
 <a href="index.html" style="text-decoration:none">Back to home page</a><br>
+</body>
+</html>
 
 
